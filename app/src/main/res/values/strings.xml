@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ECONOMICO</string>
+
+    <!-- Registrarte -->
+    <string name="registrarse_ahora_label">Registrarse Ahora</string>
+    <string name="usuario_label">Usuario</string>
+    <string name="correo_label">Correo</string>
+    <string name="password_label">Contraseña</string>
+    <string name="registrarse_label">Registrarse</string>
+    <string name="usuario_label1">Coodenadas X</string>
+    <string name="usuario_label2">Coordenadas Y</string>
+
+    <string name="escribe_tu_nombre_label">escribe tu nombre</string>
+    <string name="escribe_tu_correo_electronico_label">escribe tu correo electronico</string>
+    <string name="escribe_una_contraseña_label">escribe una contraseña</string>
+
+    <string name="usuario_registrado_label">Usuario Registrado</string>
+
+    <!-- login -->
+    <string name="login_label">Login</string>
+    <string name="escribe_tu_contraseña_label">escribe tu contraseña</string>
+
+    <!-- dialogo -->
+    <string name="comprobando_datos_label">comprobando datos</string>
+    <string name="espere_por_favor_label">espere por favor...</string>
+
+    <!-- cardView productos -->
+    <string name="precio_label">Precio L</string>
+
+    <!-- categorias -->
+    <string name="titulo_label">titulo</string>
+    <string name="agregar_label">agregar</string>
+    <string name="editar_label">editar</string>
+
+    <string name="escribe_un_titulo_label">escribe un titulo</string>
+
+    <!-- perfil -->
+    <string name="precio_label_dos">precio:</string>
+    <string name="producto_label">producto:</string>
+    <string name="costo_label">costo:</string>
+    <string name="fecha_label">fecha:</string>
+
+    <string name="lista_carrito_label">Lista de Carrito</string>
+    <string name="lista_deseos_label">Lista de Deseos</string>
+    <string name="detalle_compras_label">Detalle de compras</string>
+    <string name="monto_total_label">Monto Total:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

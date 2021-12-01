@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/verProductoActionBarPerfil"
+        android:icon="@mipmap/ic_carrito_ventas_action_bar"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle,MenuTittle" />
+
+    <item
+        android:id="@+id/logOutActionBarPerfil"
+        android:title="salir"
+        />
+
+</menu>

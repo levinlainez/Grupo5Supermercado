@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/verProductoActionBar"
+        android:icon="@mipmap/ic_carrito_ventas_action_bar"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle,MenuTittle" />
+    <item
+        android:id="@+id/loginActionBar"
+        android:title="Autenticarse"
+        />
+
+    <item
+        android:id="@+id/signInActionBar"
+        android:title="Registrarse"
+        />
+
+    <item
+        android:id="@+id/administrativoActionBar"
+        android:title="administrativo"
+        />
+
+    <item
+        android:id="@+id/perfilActionBar"
+        android:title="perfil"
+        />
+
+    <item
+        android:id="@+id/logOutActionBar"
+        android:title="salir"
+        />
+
+</menu>
